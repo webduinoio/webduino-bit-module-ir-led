@@ -1,6 +1,6 @@
 # webduino-bit-module-ir-led
 
-Module for Webduino:bit IR Led.
+Module for IR LED of Webduino:bit.
 
 ## Installation
 
