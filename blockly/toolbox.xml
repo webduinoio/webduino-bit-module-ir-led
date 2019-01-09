@@ -1,8 +1,8 @@
-    <category id="catIRLed" index="8">
+    <category id="catIRLed_bit" index="8" tags="bit">
       <block type="variables_set">
         <field name="VAR">irled</field>
         <value name="VALUE">
-          <block type="irled_new">
+          <block type="irled_new_bit">
             <field name="pin_">2</field>
           </block>
         </value>

@@ -1,10 +1,10 @@
 var mainUrl = 'https://tutorials.webduino.io/zh-tw/docs/';
 var utmUrl = '?utm_source=cloud-blockly&utm_medium=contextMenu&utm_campaign=tutorials';
 
-Blockly.Blocks['irled_new'] = {
+Blockly.Blocks['irled_new_bit'] = {
   init: function () {
     this.appendDummyInput()
-      .appendField(Blockly.Msg.WEBDUINO_IRLED, "紅外線發射，腳位：")
+      .appendField(Blockly.Msg.WEBDUINO_IRLED_BIT, "紅外線發射，腳位：")
       .appendField(new Blockly.FieldDropdown([
         ["2", "2"]
       ]), "pin_");

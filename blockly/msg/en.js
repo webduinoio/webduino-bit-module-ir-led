@@ -1,1 +1,1 @@
-catIRLed = "IR Send";
+MSG.catIRLed_bit = "IR Send";

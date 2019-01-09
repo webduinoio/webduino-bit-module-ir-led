@@ -1,9 +1,9 @@
 {
   "types": [
-    "irled_new",
+    "irled_new_bit",
     "irled_launch"
   ],
-  "category": "toolbox",
+  "category": "catMenu2",
   "scripts": [
     "blockly/blocks.js",
     "blockly/javascript.js"
