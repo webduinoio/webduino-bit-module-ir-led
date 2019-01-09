@@ -1,1 +1,1 @@
-catIRLed = "IR Send";
+MSG.catIRLed = "IR Send";

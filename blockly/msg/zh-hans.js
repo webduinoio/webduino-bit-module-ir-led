@@ -1,1 +1,1 @@
-catIRLed = "红外线发射";
+MSG.catIRLed = "红外线发射";
